@@ -1,0 +1,26 @@
+.wrpper {
+    width: 500px;
+    height: auto;
+    margin: 0 auto;
+}
+
+
+
+h2 {
+    font-weight: bold;
+    background-color: #F1F1F1;
+    border-left: 4px solid red;
+    padding-left: 10px;
+    font-size: 18px;
+    margin: 0 auto;
+    width: 500px;
+    margin-bottom: 15px;
+
+}
+
+form {
+    border-radius: 10px 10px 10px 10px;
+    border: 2px solid #EBEBEB;
+    background-color: #FBFBFB;
+    padding-left: 10px;
+}
